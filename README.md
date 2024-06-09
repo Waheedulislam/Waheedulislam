@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/waheedul islam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waheedul islam" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/waheedul-islam-269719241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waheedul islam" height="30" width="40" /></a>
 <a href="https://fb.com/وحيد الإسلام" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="وحيد الإسلام" height="30" width="40" /></a>
 <a href="https://instagram.com/whydlslm7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whydlslm7" height="30" width="40" /></a>
 </p>
