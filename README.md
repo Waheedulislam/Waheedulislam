@@ -13,7 +13,7 @@
 
 - 👨‍💻 See my portfolio at [[https://my-portofolio-94bd8.web.app/](https://waheedulislam.vercel.app/)]
 
-- 📩 You can contact me at **baoppyhossen1234@gmail.com**
+- 📩 You can contact me at **waheeduli81@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
