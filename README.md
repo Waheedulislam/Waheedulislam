@@ -123,3 +123,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waheedulislam&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
+
+--- 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waheedulislam&show_icons=true&locale=en&layout=compact" alt="waheedulislam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waheedulislam&show_icons=true&locale=en" alt="waheedulislam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waheedulislam&" alt="waheedulislam" /></p>
+
