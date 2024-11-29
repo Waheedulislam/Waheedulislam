@@ -123,8 +123,7 @@
 
 <br/>
 
-### **GitHub Stats**  
-
+## :eyes: GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waheedulislam&layout=compact&theme=radical" alt="Top Languages" />
