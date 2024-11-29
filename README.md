@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
----
+<br/>
 
 ### **Connect With Me**  
 <p align="left">
