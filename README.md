@@ -74,9 +74,7 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="80" height="80" />
   </a>
-</div>
 
-<div align='center' style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80" />
   </a>
