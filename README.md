@@ -13,6 +13,8 @@
 
 - 👨‍💻 See my portfolio at [[https://my-portofolio-94bd8.web.app/](https://waheedulislam.vercel.app/)]
 
+- 🤝 Looking to Collaborate on:** [Tech Heim](https://techheim.netlify.app/)  
+
 - 📩 You can contact me at **waheeduli81@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
