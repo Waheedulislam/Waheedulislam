@@ -126,12 +126,6 @@
 </div>
 
 
-
-
-
-<br/>
-
-
 <br/>
 
 ## :eyes: GitHub Stats
