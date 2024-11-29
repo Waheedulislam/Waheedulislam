@@ -11,8 +11,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waheedulislam&label=Profile%20views&color=0e75b6&style=flat" alt="waheedulislam" /> </p>
 
-<br/>
-
 - 🌏 I'm based at **Dhaka in Bangladesh.**
 
 - 🌱 I’m currently learning **React,Node.js,Express.js.Mongodb**
