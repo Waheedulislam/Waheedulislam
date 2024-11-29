@@ -112,9 +112,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60" />
   </a>
-</div>
 
-<div align='center' style="display: flex; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60" />
   </a>
