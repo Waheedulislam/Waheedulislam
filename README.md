@@ -37,10 +37,15 @@
   </a>
 </p>
 
----
+<br/>
 
-### **Languages and Tools**  
-<div style="display: flex; flex-wrap: wrap; gap: 1px;">
+<br/>
+
+## :computer: Technologies Tools that I know
+
+<br/>
+
+<div style="display: flex; flex-wrap: wrap; gap: 5px;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
   </a>
@@ -109,10 +114,15 @@
   </a>
 </div>
 
+<br/>
 
 ---
 
+<br/>
+
 ### **GitHub Stats**  
+
+<br/>
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waheedulislam&layout=compact&theme=radical" alt="Top Languages" />
@@ -123,13 +133,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waheedulislam&theme=radical" alt="GitHub Streak Stats" />
 </p>
-
-
---- 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waheedulislam&show_icons=true&locale=en&layout=compact" alt="waheedulislam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waheedulislam&show_icons=true&locale=en" alt="waheedulislam" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waheedulislam&" alt="waheedulislam" /></p>
 
