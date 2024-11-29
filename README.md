@@ -21,7 +21,10 @@
 
 <br/>
 
-### **Connect With Me**  
+## :mailbox: Reach me out
+
+<br/>
+
 <p align="left">
   <a href="https://linkedin.com/in/waheedul-islam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
