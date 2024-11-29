@@ -118,7 +118,7 @@
   </a>
 </div>
 
-<div align='center' style="display: flex; gap: 10px; flex-wrap: wrap; margit-top: 10px;">
+<div align='center' style="display: flex; gap: 10px; flex-wrap: wrap; margin-top: 10px;">
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="80" height="80" />
   </a>
@@ -129,6 +129,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="80" height="80" />
   </a>
 </div>
+
 
 
 
