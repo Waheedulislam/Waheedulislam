@@ -113,11 +113,12 @@
 ---
 
 ### **GitHub Stats**  
+
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waheedulislam&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waheedulislam&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waheedulislam&layout=compact&theme=radical" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waheedulislam&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waheedulislam&theme=radical" alt="GitHub Streak Stats" />
