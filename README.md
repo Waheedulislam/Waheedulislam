@@ -52,7 +52,7 @@
 
 <br/>
 
-<div align='center' style="display: flex; gap: 40px; flex-wrap: wrap;">
+<div align='center' style="display: flex;  flex-wrap: wrap;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80" />
   </a>
@@ -96,9 +96,6 @@
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" >
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="80" height="80" />
   </a>
-</div>
-
-<div align='center' style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="80" height="80" />
   </a>
@@ -114,7 +111,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="80" height="80" />
   </a>
-</div>
 
 <div align='center' style="display: flex; gap: 10px; flex-wrap: wrap; mx: 20px;">
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
