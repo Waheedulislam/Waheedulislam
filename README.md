@@ -1,4 +1,4 @@
-![logo]([https://github.com/Waheedulislam/Waheedulislam/blob/main/4.%20Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.jpg])
+![logo](https://github.com/Waheedulislam/Waheedulislam/blob/main/4.%20Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Waheedul Islam</h1>
 
 
