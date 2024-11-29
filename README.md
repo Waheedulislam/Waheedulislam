@@ -52,7 +52,7 @@
 
 <br/>
 
-<div align='center' style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div align='center' style="display: flex; gap: 40px; flex-wrap: wrap;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80" />
   </a>
