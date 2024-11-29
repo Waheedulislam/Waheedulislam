@@ -5,14 +5,12 @@
 <h4 > <h1>Full-Stack Web Developer</h1> Hello!! I am Waheedul Islam. I am a Full-Stack Developer with expertise in HTML5, CSS3, JavaScript, TypeScript, React.js, Next.js, Redux, Nodejs,tailwindcss,bootstrap,Material Ui,Ant Design,Express.js, MongoDB. I am passionate about creating seamless web applications with a keen eye for design and functionality. I believe I don’t know everything, so each day gifts me the opportunity to learn something new and improve myself.</h4>
 
 <br/>
+<br/>
 
-
-<br/>
-<br/>
-<br/>
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  align="right" alt="coding" width="400" />
-
+<br/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waheedulislam&label=Profile%20views&color=0e75b6&style=flat" alt="waheedulislam" /> </p>
 
