@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React,Node.js,Express.js.Mongodb**
 
-- 👨‍💻 See my portfolio at [[https://my-portofolio-94bd8.web.app/](https://waheedulislam.vercel.app/)]
+- 👨‍💻 See my portfolio at [[waheedulislam.vercel.app/](https://waheedulislam.vercel.app/)]
 
 - 🤝 Looking to Collaborate on:** [Tech Heim](https://techheim.netlify.app/)  
 
